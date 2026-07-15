@@ -1,0 +1,13 @@
+# Don't track the large dataset/generated files
+data/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment (if you create one later)
+venv/
+env/
+
+# VS Code settings
+.vscode/
