@@ -11,3 +11,4 @@ env/
 
 # VS Code settings
 .vscode/
+.env
